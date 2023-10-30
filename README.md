@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Not much happening in my project as most of them here are private students' projects. I keep other stuff in various places.
+Not much happening in my contributions here as most of the projects are private students' projects. I keep other stuff in various places.
 
 
 <!--
