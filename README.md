@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Not much happening in my project as most of them here are private students' projects. I keep other stuff in various places.
+
+
 <!--
 **mkozniewski/mkozniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
